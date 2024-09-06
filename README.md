@@ -1,3 +1,3 @@
-# I dont use github
-I use codeberg. Most stuff here is for railway and are not important primary projects
-Please visit my codeberg [here](https://codeberg.org/bingus_Violet/) instead 
+# Hi!
+I'm Violet, a 15 year old web and game developer. **I am no longer active on Github**, so please feel free to find my socials on my site: https://violets-purgatory.dev
+You can find my git here: https://git.viois.gay/violet
